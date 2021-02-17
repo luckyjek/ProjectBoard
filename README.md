@@ -9,17 +9,14 @@
     <b>Git커밋&푸시공부 브런치 과정 펼치기</b>
   </summary>
   <div>
-  
-   
+   <h3>브런치처음으로생성했는데 엉망이됨</h3>
    <img src=/image/add_gitimage.jpg>
-  
   </div>
 </details>
 
 
 
 
-   ![add_gitimage](./image/add_gitimage.jpg)
 
 
 
