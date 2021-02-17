@@ -8,7 +8,7 @@
     <b>Git커밋&푸시공부 브런치 과정 펼치기</b>
   </summary>
   <div>
-    ![](https://user-images.githubusercontent.com/70943889/108201622-6f6c4680-7163-11eb-9447-f830acc53d19.jpg)
+![git](https://user-images.githubusercontent.com/70943889/108203381-c7a44800-7165-11eb-8ef4-4e5827b6ffcc.jpg)
   </div>
 </details>
 
