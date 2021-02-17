@@ -4,11 +4,16 @@
 개인복습 _ git커밋&푸시 / 게시판 구현 프로젝트</h3>
 
 <details open>
+  
   <summary> 
     <b>Git커밋&푸시공부 브런치 과정 펼치기</b>
   </summary>
-  <div><a>
-<img src="![git](https://user-images.githubusercontent.com/70943889/108203381-c7a44800-7165-11eb-8ef4-4e5827b6ffcc.jpg)"></a>
+  <div>
+  
+   <a target="_blank" >
+      <img src="![git](https://user-images.githubusercontent.com/70943889/108203381-c7a44800-7165-11eb-8ef4-4e5827b6ffcc.jpg)">
+  </a>
+  
   </div>
 </details>
 
