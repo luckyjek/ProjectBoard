@@ -11,16 +11,15 @@
   <div>
   
    
-    <img src="image/add_gitimage.jpg">
+    ![add_gitimage](./image/add_gitimage.jpg)
   
   </div>
 </details>
 
-image/add_gitimage.jpg
 
 
 
-
+   ![add_gitimage](./image/add_gitimage.jpg)
 
 
 
