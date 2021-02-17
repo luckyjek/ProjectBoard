@@ -11,7 +11,7 @@
   <div>
   
    
-    ![add_gitimage](./image/add_gitimage.jpg)
+   <img src=/image/add_gitimage.jpg width="300" height="300">
   
   </div>
 </details>
