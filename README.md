@@ -10,9 +10,8 @@
   </summary>
   <div>
   
-   <a target="_blank" >
+   
       ![add_gitimage](./image/add_gitimage.jpg)
-  </a>
   
   </div>
 </details>
