@@ -11,7 +11,7 @@
   <div>
   
    <a target="_blank" >
-      <img src="![git](https://user-images.githubusercontent.com/70943889/108203381-c7a44800-7165-11eb-8ef4-4e5827b6ffcc.jpg)">
+      ![add_gitimage](./image/add_gitimage.jpg)
   </a>
   
   </div>
