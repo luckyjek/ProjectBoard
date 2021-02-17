@@ -34,8 +34,13 @@
 
 
 
-<h4>
-<프로젝트를하며 참고한 블로그 및 자료><br>
-https://worthpreading.tistory.com/83<br>  
-https://github.com/Integerous/all-in-one/blob/main/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4/project.md
-</h4>
+
+ <div>
+   <h4><프로젝트를하며 참고한 블로그 및 자료><br>
+     <ul>
+         <li>https://worthpreading.tistory.com/83</li><br>  
+         <li>https://github.com/Integerous/all-in-one/blob/main/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4/project.md</li>
+    </ul>
+  </h4>
+</div>
+
